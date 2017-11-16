@@ -28,6 +28,7 @@ import java.util.*;
 import static com.gwz.util.SparkUtils.getSQLContext;
 
 /**
+ * 用户访问session分析Spark作业
  * Created by gongwenzhou on 2017/11/14.
  */
 public class UserVisitSessionAnalyzeSpark {

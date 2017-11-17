@@ -29,7 +29,7 @@ import java.util.*;
 
 /**
  * 各区域top3热门商品统计Spark作业
- * Created by root on 2017/11/16.
+ * Created by root on 2017/11/16
  */
 public class AreaTop3ProductSpark {
 
